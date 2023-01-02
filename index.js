@@ -21,7 +21,7 @@ var katakeemapat="java script";
 var res=katapertama.concat[katakedua, kataketiga, katakeempat];
 console.log(katapertama,katakedua,kataketiga,katakeempat);
 
-//o4
+//no4
 const word = 'javascript';
 const second = 'is';
 const third = 'awesome';
